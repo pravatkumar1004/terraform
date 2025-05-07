@@ -2,7 +2,7 @@
       ami = var.AIM
      instance_type = var.type
       tags = {
-        Name="tarraform Instance"
+        Name="tarraform Jenkins"
       }
  }
 
