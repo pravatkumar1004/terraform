@@ -1,6 +1,6 @@
 variable "type" {
     description = "Instance Type"
-    default = "t2.nano"
+    default = "t2.micro"
     type=string
 }
 
