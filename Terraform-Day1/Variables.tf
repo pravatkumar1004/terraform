@@ -7,6 +7,6 @@ variable "type" {
 variable "AIM" {
     description = "AIM Type Defind"
     type = string
-    default = "ami-0e449927258d45bc4"
+    default = "ami-058a8a5ab36292159"
   
 }
